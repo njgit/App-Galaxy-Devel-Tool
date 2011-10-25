@@ -1,0 +1,5 @@
+#!/usr/bin/perl
+#use FindBin::libs;
+use App::Galaxy::Devel::Tool::App;
+App::Galaxy::Devel::Tool::App->run;
+
